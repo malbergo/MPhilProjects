@@ -9,7 +9,7 @@ from matplotlib import cm
 from matplotlib.colors import Normalize, LogNorm
 import torch
 from torch.autograd import Variable, grad
-from logistics import feature_normalize
+from logistics_forDavid import feature_normalize
 
 #ROOT.gSystem.Load("/usr/local/bin/Delphes-3.3.3/external/ExRootAnalysis/libExRootAnalysis.so")
 # ROOT.gROOT.ProcessLine('.include /usr/local/bin/Delphes-3.4.1')
