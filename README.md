@@ -13,7 +13,7 @@ Firing an electron a variable momenta and angle again and again at a detector. D
 ![text](ForViewing/plots/eGunPTSmearingBest/Eta_RangePTDiff500EventsGenDelphes_iter5701.png "Title")
 
 
-![text](ForViewing/plots/eGunPTSmearingBest/Eta_RangePTDistribution500EventsGenDelphes_iter5701.png "Title")
+![text](ForViewing/plots/eGunPTSmearingBest/Eta_RangePTDistribution500EventsGenDelphes_iter5701_labelFixed.png "Title")
 
 ### Prerequisites
 
