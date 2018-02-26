@@ -19,6 +19,3 @@ Firing an electron a variable momenta and angle again and again at a detector. D
 
 If not using the saved numpy data files, you will need Delphes (3.3.3) + ROOT (5.34.36)
 
-```
-Give examples
-```
